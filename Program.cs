@@ -10,7 +10,7 @@
         {
             Console.WriteLine("Hello, World from C# App");
             welcome("Git");
-            Console.WriteLine("Conflict Solve")
+            Console.WriteLine("Conflict Solve");
 
         }
     }
